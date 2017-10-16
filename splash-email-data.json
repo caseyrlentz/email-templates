@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Newsletter",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F370748ce15047bb63e727b1ecc07445a953dd9b6.jpg",
+    "link": "https://litmus.com/community/templates/11-pook-newsletter"
+  },
+  {
+    "name": "Product Announcement",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fdd170a895af740f4b73c139a38f94aa74c85300f.jpg",
+    "link": "https://litmus.com/community/templates/12-pook-product-announcement"
+  },
+  {
+    "name": "Event",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F54b2bfc93e10a4b8f23055a7b5f825678de41a91.png",
+    "link": "https://litmus.com/community/templates/23-vision-event"
+  },
+  {
+    "name": "Account Update",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fcfcf70f8d7ee76b4f568af2394e49ae12abc81d4.png",
+    "link": "https://litmus.com/community/templates/3-ceej-account-update"
+  },
+  {
+    "name": "New Account",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fdf45d8df19c32bd2f8e38580e9afdd030c1f3e06.png",
+    "link": "https://litmus.com/community/templates/6-ceej-new-account"
+  },
+  {
+    "name": "Event Invitation",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F310d8ebec891d49d3542c291cf3234c7b74931ae.jpg",
+    "link": "https://litmus.com/community/templates/10-pook-event-invitation"
+  },
+  {
+    "name": "Receipt",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Ff28bc0a2d54bdfa09d55d3e3ce8bee6c1a80d836.png",
+    "link": "https://litmus.com/community/templates/18-beretun-receipt"
+  },
+  {
+    "name": "Update",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F98776673e1354a8d0ab331b0503c3a50e23783dd.png",
+    "link": "https://litmus.com/community/templates/24-vision-update"
+  },
+  {
+    "name": "Announcement",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F5e4af6f60debaed8f36bcf4642f6a9166076bc1e.png",
+    "link": "https://litmus.com/community/templates/21-vision-announcement"
+  },
+  {
+    "name": "User Welcome",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F793994648a09ecf0c5a04ec8ad8d2724781c3b91.png",
+    "link": "https://litmus.com/community/templates/26-vision-user-welcome"
+  },
+  {
+    "name": "Blog Post",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Faa13b128558ca8b7e488cb7ec534c231c02dce52.png",
+    "link": "https://litmus.com/community/templates/8-pook-blog-post"
+  },
+  {
+    "name": "Coupon Sale",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F32fda5aa82fcf6f0a4f911037b5bb23051063fba.png",
+    "link": "https://litmus.com/community/templates/9-pook-coupon-sale"
+  },
+  {
+    "name": "Closed Account",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F7f363fc0d2712249f1e8bca965e4dcdff4cf2f73.png",
+    "link": "https://litmus.com/community/templates/4-ceej-closed-account"
+  },
+  {
+    "name": "Stationery",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F9b9066356693b017375b8d7ceaf37da7cda588a0.png",
+    "link": "https://litmus.com/community/templates/13-pook-stationery"
+  },
+  {
+    "name": "Expired Card",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fbf50349146808dd22e01ad7b7bead36694e48a44.png",
+    "link": "https://litmus.com/community/templates/5-ceej-expired-card"
+  },
+  {
+    "name": "Vision: Coming Soon",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F1dd4bc9596d5e47a58450097717d38e07633c40b.png",
+    "link": "https://litmus.com/community/templates/22-vision-coming-soon"
+  },
+  {
+    "name": "Password Reset",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fe2df8f32cb58f90919132d2e1cc3a3612672dbf9.png",
+    "link": "https://litmus.com/community/templates/7-ceej-password-reset"
+  },
+  {
+    "name": "Stationery",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F0268936116f4bbbeef3c8d1b1305e251feccfa75.png",
+    "link": "https://litmus.com/community/templates/25-vision-stationery"
+  },
+  {
+    "name": "Abandoned Cart 2",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F0a18fff1da9b91d6153e71ba958a5d2d93a7ad45.png",
+    "link": "https://litmus.com/community/templates/28-email-monks-abandoned-cart-2"
+  },
+  {
+    "name": "Abandoned Cart 1",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fad5fe998d27eab82fd384a08047956b182c0c603.png",
+    "link": "https://litmus.com/community/templates/27-email-monks-abandoned-cart-1"
+  },
+  {
+    "name": "Abandoned Cart 3",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F251ae9edeb0b8f53c832e5e1e95b7644e5829621.png",
+    "link": "https://litmus.com/community/templates/29-email-monks-abandoned-cart-3"
+  },
+  {
+    "name": "Shopping Cart",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fe6e4ac80852ed79bf4e0eb822ddc9cf3fe1e7579.png",
+    "link": "https://litmus.com/community/templates/19-beretun-shopping-cart"
+  },
+  {
+    "name": "Birthday",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fb0ecbe413680d796b1ff80a9306a3b71e88ca43a.png",
+    "link": "https://litmus.com/community/templates/15-beretun-birthday"
+  },
+  {
+    "name": "Feedback",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fc0fbc2e4f6f06542656d585854ebb0c445e68160.png",
+    "link": "https://litmus.com/community/templates/16-beretun-feedback"
+  },
+  {
+    "name": "Stationery",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F1b9117742c52f7198a0206f1b84f0c6259228a98.png",
+    "link": "https://litmus.com/community/templates/20-beretun-stationery"
+  },
+  {
+    "name": "Account Created",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2Fd1afffb3c9c4886f0688afe6db06a95383650d2b.png",
+    "link": "https://litmus.com/community/templates/14-beretun-account-created"
+  },
+  {
+    "name": "Order Shipped",
+    "image": "https://cp.litmus.com/b/?c=img&l=0&r=v1&t=1&th=280&tw=280&u=https%3A%2F%2Fs3.amazonaws.com%2Fcommunity-templates%2Fproduction%2F980ad175be8a6ea607822b06a7c6bf740d35d722.png",
+    "link": "https://litmus.com/community/templates/17-beretun-order-shipped"
+  }
+]
