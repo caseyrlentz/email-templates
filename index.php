@@ -5,13 +5,8 @@ $json = json_decode($str, true);
 ?>
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>Email Templates</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
+
+	<?php include('includes/header.php'); ?>
 	<body class="is-loading">
 
 		<!-- Wrapper -->
@@ -34,68 +29,40 @@ $json = json_decode($str, true);
 						<a href="index.html" class="logo">Email</a>
 					</header>
 
-				<!-- Nav -->
-					<!-- <nav id="nav">
-						<ul class="links">
-							<li class="active"><a href="index.html">This is Massively</a></li>
-							<li><a href="generic.html">Generic Page</a></li>
-							<li><a href="elements.html">Elements Reference</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-						</ul>
-					</nav> -->
 
+					<?php include('includes/nav.php'); ?>
 				<!-- Main -->
 					<div id="main">
-
-						<!-- Featured Post -->
-							<!-- <article class="post featured">
-								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">And this is a<br />
-									massive headline</a></h2>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
-								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
-								<ul class="actions">
-									<li><a href="#" class="button big">More Info</a></li>
-								</ul>
-							</article> -->
-
 						<!-- Posts -->
-					
 							<section class="posts">
-
 							<?php 	foreach($json as $emailTemplate) { ?>
+								<?php 
+
+									$newName = preg_replace("/[\s-]+/", " ", $emailTemplate['name']);
+									$newName = preg_replace("/[\s_]/", "-", $newName);
+									$newName = strtolower($newName);
+									$localUrl = 'landing/' . $newName . '.php';
+								?>
 								<article>
 									<header>	
 										<h2><?php echo $emailTemplate['name'] ?></h2>
 									</header>
 									<img src="<?php echo $emailTemplate['image'] ?>" alt="<?php echo $emailTemplate['name'] ?>" />
 									<ul class="actions">
-										<li><a href="#" class="button">More Info</a></li>
+										<li><a href="<?php echo $localUrl ?>" class="button">More Info</a></li>
 									</ul>
 								</article>
 								<?php } ?>
 							</section>
-
-
 					</div>
 			</div>
-
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
+			<!-- <script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
+			<script src="assets/js/main.js"></script> -->
+			<?php include('includes/FOOTER.php'); ?>
 	</body>
 </html>
